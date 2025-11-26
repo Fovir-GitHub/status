@@ -5,6 +5,16 @@ repo: status # The name of this repository
 sites:
   - name: Home Page
     url: https://www.fovir.fyi/
+  - name: Wakapi
+    url: https://wakapi.fovir.fyi/
+  - name: Music
+    url: https://music.fovir.fyi/
+  - name: Book
+    url: https://book.fovir.fyi/
+  - name: OpenList
+    url: https://list.fovir.fyi/
+  - name: RSS
+    url: https://rss.fovir.fyi/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
