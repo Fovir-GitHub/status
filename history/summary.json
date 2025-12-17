@@ -4,9 +4,9 @@
     "url": "https://www.fovir.fyi/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fovir.fyi.ico",
     "slug": "home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 724,
     "timeMonth": 334,
     "timeYear": 334,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-17": 0
+    }
   },
   {
     "name": "Wakapi",
     "url": "https://wakapi.fovir.fyi/",
     "icon": "https://icons.duckduckgo.com/ip3/wakapi.fovir.fyi.ico",
     "slug": "wakapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 221,
     "timeMonth": 212,
     "timeYear": 212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-17": 0
+    }
   },
   {
     "name": "Music",
     "url": "https://music.fovir.fyi/",
     "icon": "https://icons.duckduckgo.com/ip3/music.fovir.fyi.ico",
     "slug": "music",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 141,
     "timeMonth": 188,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-17": 0
+    }
   },
   {
     "name": "Book",
     "url": "https://book.fovir.fyi/",
     "icon": "https://icons.duckduckgo.com/ip3/book.fovir.fyi.ico",
     "slug": "book",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +75,18 @@
     "timeWeek": 186,
     "timeMonth": 177,
     "timeYear": 177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-17": 0
+    }
   },
   {
     "name": "OpenList",
     "url": "https://list.fovir.fyi/",
     "icon": "https://icons.duckduckgo.com/ip3/list.fovir.fyi.ico",
     "slug": "open-list",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,14 +95,16 @@
     "timeWeek": 228,
     "timeMonth": 425,
     "timeYear": 425,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-17": 0
+    }
   },
   {
     "name": "RSS",
     "url": "https://rss.fovir.fyi/",
     "icon": "https://icons.duckduckgo.com/ip3/rss.fovir.fyi.ico",
     "slug": "rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -105,6 +115,8 @@
     "timeWeek": 130,
     "timeMonth": 178,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-17": 0
+    }
   }
 ]
