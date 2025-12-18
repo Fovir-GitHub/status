@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fovir.fyi.ico",
     "slug": "home-page",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 330,
-    "timeDay": 246,
-    "timeWeek": 596,
-    "timeMonth": 330,
-    "timeYear": 330,
+    "uptime": "99.87%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 325,
+    "timeDay": 267,
+    "timeWeek": 586,
+    "timeMonth": 325,
+    "timeYear": 325,
     "dailyMinutesDown": {
-      "2025-12-17": 50
+      "2025-12-17": 39
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakapi.fovir.fyi.ico",
     "slug": "wakapi",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 225,
-    "timeDay": 301,
-    "timeWeek": 256,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "uptime": "99.87%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 222,
+    "timeDay": 288,
+    "timeWeek": 259,
+    "timeMonth": 222,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-12-17": 50
+      "2025-12-17": 39
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/music.fovir.fyi.ico",
     "slug": "music",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 184,
-    "timeDay": 151,
-    "timeWeek": 145,
-    "timeMonth": 184,
-    "timeYear": 184,
+    "uptime": "99.87%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 182,
+    "timeDay": 147,
+    "timeWeek": 130,
+    "timeMonth": 182,
+    "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-12-17": 50
+      "2025-12-17": 39
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/book.fovir.fyi.ico",
     "slug": "book",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 175,
-    "timeDay": 159,
-    "timeWeek": 177,
-    "timeMonth": 175,
-    "timeYear": 175,
+    "uptime": "99.87%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 176,
+    "timeDay": 168,
+    "timeWeek": 187,
+    "timeMonth": 176,
+    "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-12-17": 50
+      "2025-12-17": 39
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/list.fovir.fyi.ico",
     "slug": "open-list",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 394,
-    "timeDay": 147,
-    "timeWeek": 199,
-    "timeMonth": 394,
-    "timeYear": 394,
+    "uptime": "99.87%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 386,
+    "timeDay": 136,
+    "timeWeek": 202,
+    "timeMonth": 386,
+    "timeYear": 386,
     "dailyMinutesDown": {
-      "2025-12-17": 50
+      "2025-12-17": 39
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.fovir.fyi.ico",
     "slug": "rss",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 177,
-    "timeDay": 169,
-    "timeWeek": 140,
-    "timeMonth": 177,
-    "timeYear": 177,
+    "uptime": "99.87%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 174,
+    "timeDay": 150,
+    "timeWeek": 132,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-12-17": 50
+      "2025-12-17": 39
     }
   }
 ]
