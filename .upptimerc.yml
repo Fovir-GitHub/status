@@ -17,6 +17,8 @@ sites:
     url: https://rss.fovir.fyi/
   - name: GoToSocial
     url: https://social.fovir.fyi/
+  - name: Gotify
+    url: https://gotify.fovir.fyi/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
