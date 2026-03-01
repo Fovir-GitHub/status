@@ -9,8 +9,6 @@ sites:
     url: https://wakapi.fovir.fyi/
   - name: Music
     url: https://music.fovir.fyi/
-  - name: Book
-    url: https://book.fovir.fyi/
   - name: OpenList
     url: https://list.fovir.fyi/
   - name: RSS
