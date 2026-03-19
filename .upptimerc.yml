@@ -7,6 +7,8 @@ sites:
     url: https://www.fovir.fyi/
   - name: Authelia
     url: https://auth.fovir.fyi/
+  - name: Translate
+    url: https://translate.fovir.fyi/
   - name: Flapalerted
     url: https://flapalerted.fovir.fyi/
   - name: Wakapi
