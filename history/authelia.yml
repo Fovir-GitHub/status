@@ -1,7 +1,7 @@
 url: https://auth.fovir.fyi/
-status: up
-code: 200
-responseTime: 782
-lastUpdated: 2026-03-31T23:27:57.956Z
+status: down
+code: 522
+responseTime: 19943
+lastUpdated: 2026-04-01T23:31:32.125Z
 startTime: 2026-03-01T04:14:18.272Z
 generator: Upptime <https://github.com/upptime/upptime>
