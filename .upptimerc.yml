@@ -17,12 +17,8 @@ sites:
     url: https://list.fovir.fyi/
   - name: RSS
     url: https://rss.fovir.fyi/
-  - name: GoToSocial
-    url: https://social.fovir.fyi/
   - name: Gotify
     url: https://gotify.fovir.fyi/
-  - name: Karakeep
-    url: https://karakeep.fovir.fyi/
   - name: LG
     url: https://lg.fovir.fyi/
   - name: Search
