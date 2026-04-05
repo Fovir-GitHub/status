@@ -1,7 +1,7 @@
 url: https://social.fovir.fyi/
-status: up
-code: 200
-responseTime: 715
-lastUpdated: 2026-04-04T23:24:41.650Z
+status: down
+code: 503
+responseTime: 621
+lastUpdated: 2026-04-05T07:13:11.653Z
 startTime: 2026-02-01T11:16:51.014Z
 generator: Upptime <https://github.com/upptime/upptime>
