@@ -23,6 +23,8 @@ sites:
     url: https://lg.fovir.fyi/
   - name: Search
     url: https://search.fovir.fyi/
+  - name: Codeberg
+    url: https://codeberg.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
