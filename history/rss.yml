@@ -1,7 +1,7 @@
 url: https://rss.fovir.fyi/
-status: up
-code: 200
-responseTime: 991
-lastUpdated: 2026-05-18T23:59:10.693Z
+status: down
+code: 502
+responseTime: 367
+lastUpdated: 2026-05-19T18:12:28.986Z
 startTime: 2025-11-26T15:35:02.296Z
 generator: Upptime <https://github.com/upptime/upptime>
