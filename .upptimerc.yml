@@ -11,12 +11,8 @@ sites:
     url: https://flapalerted.fovir.fyi/
   - name: Wakapi
     url: https://wakapi.fovir.fyi/
-  - name: Music
-    url: https://music.fovir.fyi/
   - name: OpenList
     url: https://list.fovir.fyi/
-  - name: RSS
-    url: https://rss.fovir.fyi/
   - name: Gotify
     url: https://gotify.fovir.fyi/
   - name: LG
