@@ -19,6 +19,8 @@ sites:
     url: https://lg.fovir.fyi/
   - name: Search
     url: https://search.fovir.fyi/
+  - name: CyberChef
+    url: https://chef.fovir.fyi/
   - name: Codeberg
     url: https://codeberg.org/
 
